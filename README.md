@@ -2,6 +2,7 @@
 
 ## Steps to provision the Infra
 - Configure AWS CLI
+- Update the variables in terraform.tfvars file
 - Run the following commands
 ```
 terraform fmt
